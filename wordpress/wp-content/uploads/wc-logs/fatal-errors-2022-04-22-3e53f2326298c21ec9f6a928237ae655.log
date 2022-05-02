@@ -1,4 +1,0 @@
-2022-04-22T01:13:14+00:00 CRITICAL Cannot redeclare get_search_form() (previously declared in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:239) in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\functions.php on line 74
-
-2022-04-22T01:13:47+00:00 CRITICAL Cannot redeclare get_search_form() (previously declared in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:239) in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\functions.php on line 74
-
